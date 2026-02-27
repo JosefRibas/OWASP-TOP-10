@@ -3,4 +3,4 @@ O OWASP TOP 10 é uma documentação das principais falhas de segurnaça de palh
 
 OBS: Essa pagina é somente para fins academicos, e todos os teste são feitos em laboratorios proprios e controlados.
 
-- TOP 10
+- TOP 10 - Gestão inadequada de situações excepcionais
