@@ -6,4 +6,5 @@ OBS: Essa pagina é somente para fins academicos, e todos os teste são feitos e
 - TOP 10 - Gestão inadequada de situações excepcionais
 
 Esse erro concentra-se no tratamento iandequado  de erros, falhas e outros cenários de condições anormais que o sistema pode apresentar. Em suma tratase de tratamento insdequada de falhas do sistema que levam a a tratamentos inadequados,
+
 -- CWEs desta categoria: CWE-209, CWE-234, CWE-274, CWE-476 e CWE-636.
